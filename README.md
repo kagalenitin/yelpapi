@@ -6,12 +6,17 @@
 rvm https://rvm.io/rvm/install.
 ```
 
-### 2. Install gems. (should be infrequent after first time)
+### Install gems. (should be infrequent after first time)
 ```
 bundle install
 ```
 
-### 3. Run the test:
+### yelp_api.yml
+``` 
+Sign up for a yelp developer account and get the keys: consumer key, consumer secret, token, and token secret. Add to the file.
+````
+
+### Run the test:
 ```
 rspec spec/requests/yelp_search_spec.rb
 ```
