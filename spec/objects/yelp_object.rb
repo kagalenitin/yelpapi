@@ -1,0 +1,3 @@
+module YelpObject
+
+end

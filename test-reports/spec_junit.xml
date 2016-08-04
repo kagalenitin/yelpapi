@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="rspec" tests="1" failures="1" errors="0" time="0.000562" timestamp="2016-04-29T09:34:34-07:00">
+  <!-- Randomized with seed 39496 -->
+  <properties/>
+  <testcase classname="spec.requests.yelp_search_spec" name="Search tests by location and restaurant name" file="./spec/requests/yelp_search_spec.rb" time="0.000013">
+    <failure message="uninitialized constant OAuth" type="NameError">
+      <![CDATA[uninitialized constant OAuth
+./spec/requests/yelp_search_spec.rb:15:in `block (2 levels) in <top (required)>']]>
+    </failure>
+  </testcase>
+</testsuite>

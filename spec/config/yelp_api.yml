@@ -1,0 +1,8 @@
+YELP_SEARCH_API_PATH: '/v2/search'
+
+prod:
+  YELP_URL: 'https://api.yelp.com'
+  CONSUMER_KEY:	''
+  CONSUMER_SECRET: ''
+  TOKEN: ''
+  TOKEN_SECRET: ''
